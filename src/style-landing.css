@@ -105,3 +105,54 @@ body > section:last-child{
 	width: 24px;
 	height: 24px;
 }
+.buttons-nav{
+	margin: 0 12px;
+}
+.content-left-col > h1{
+	font-weight: 700;
+	font-size: 2.5em;
+	line-height: 60px;
+	color: #22343D;
+	margin-bottom: 15px;
+}
+.content-left-col{
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+}
+.sign-up{
+	margin-bottom: 75px;
+}
+.content-right-col{
+width: 50%;
+}
+.first-sec-right-col{
+	width: 100%;
+}
+.subtitle{
+font-weight: 400;
+font-size: 1.125rem;
+line-height: 28px;
+color: #22343D;
+}
+.subtitle-2{
+	font-weight: 400;
+	font-size: 1rem;
+	line-height: 26px;
+	color: #22343D;
+	}
+.button-link {
+	font-weight: 600;
+	font-size: 1rem;
+	line-height: 24px;
+	text-decoration-line: underline;
+	color: #02897A;
+	background-color: transparent;
+	border: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: 30px;
+} 
